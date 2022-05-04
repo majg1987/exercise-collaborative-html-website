@@ -1,3 +1,6 @@
 body{
-    background: #BDBDBD;
+    background: #fcfbfb;
+}
+div {
+    border: 2px dotted black;
 }
