@@ -1,5 +1,5 @@
 body {
-    background: white;
+    background: black;
 }
 
 .redonda {
@@ -14,4 +14,8 @@ body {
 img {
     width: 700px;
     height: 400px;
+}
+.container{
+    width: 700px;
+    margin: auto;
 }
