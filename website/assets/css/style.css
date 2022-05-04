@@ -1,3 +1,8 @@
-body{
-    background: #BDBDBD;
+body {
+    background: white;
+}
+
+.redonda {
+    width: 250px;
+    height: 250px;
 }
