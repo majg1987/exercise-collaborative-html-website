@@ -6,19 +6,23 @@ body {
     width: 250px;
     height: 250px;
 }
+
 .contenedor {
     height: 240px;
     padding: 15px;
     width: 1600px;
 }
+
 .imagen {
     width: 700px;
     height: 400px;
-   }
-.container{
+}
+
+.container {
     width: 700px;
     margin: auto;
 }
+
 .fondo {
     background-color: white;
 }
