@@ -1,5 +1,5 @@
 body {
-    background: black;
+    background: rgb(249, 248, 248);
 }
 
 .redonda {
@@ -11,11 +11,14 @@ body {
     padding: 15px;
     width: 1400px;
 }
-img {
+.imagen {
     width: 700px;
     height: 400px;
-}
+   }
 .container{
     width: 700px;
     margin: auto;
+}
+.fondo {
+    background-color: white;
 }
